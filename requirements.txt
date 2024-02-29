@@ -127,7 +127,7 @@ prometheus-client
 prompt-toolkit
 ptyprocess
 pure-eval
-# (build error) PyAudio
+# (build error - fatal error: portaudio.h: No such file or directory) PyAudio
 pybind11
 pycairo
 pycparser
@@ -148,14 +148,14 @@ simplegeneric
 sniffio
 snowballstemmer
 SpeechRecognition
-# Sphinx
-# sphinx-rtd-theme
-# sphinxcontrib-applehelp
-# sphinxcontrib-devhelp
-# sphinxcontrib-htmlhelp
-# sphinxcontrib-jsmath
-# sphinxcontrib-qthelp
-# sphinxcontrib-serializinghtml
+Sphinx
+sphinx-rtd-theme
+sphinxcontrib-applehelp
+sphinxcontrib-devhelp
+sphinxcontrib-htmlhelp
+sphinxcontrib-jsmath
+sphinxcontrib-qthelp
+sphinxcontrib-serializinghtml
 stack-data
 tenacity
 terminado
