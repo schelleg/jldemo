@@ -127,7 +127,7 @@ prometheus-client
 prompt-toolkit
 ptyprocess
 pure-eval
-PyAudio
+# (build error) PyAudio
 pybind11
 pycairo
 pycparser
